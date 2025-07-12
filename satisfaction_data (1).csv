@@ -1,0 +1,6 @@
+Department,Total_Patients,Avg_Wait_Time,Avg_Satisfaction,Num_Delayed,Num_Recommended
+Cardiology,91,13.46,7.42,21,61
+Dermatology,99,13.08,7.25,19,64
+Neurology,77,11.95,6.91,16,44
+Orthopedics,91,12.69,6.95,14,52
+Pediatrics,93,13.55,6.75,18,53
