@@ -14,8 +14,7 @@ This project analyzes patient wait times and satisfaction survey data using SAS 
 - `appointments_data.csv` – Raw appointment scheduling data.
 - `satisfaction_data.csv` – Patient satisfaction survey data.
 - `wait_time_analysis.sas` – Full SAS script for data import, cleaning, analysis, and export.
-- `summary_for_bi.csv` – Final output dataset, ready for Power BI visualization.
-- `project_report.pdf` – Summary of key findings, interpretations, and business recommendations. *(optional but highly recommended)*
+- `project_report.pdf` – Summary of key findings, interpretations, and business recommendations.
 
 ##  Key SAS Steps
 1. **Data Import** – Brings raw CSV data into SAS.
@@ -42,13 +41,3 @@ This project can help hospitals:
 
 ##  Tools Used
 - **SAS 9.4** 
-## 
-| File | Purpose |
-|------|---------|
-| `README.md` | Overview and documentation |
-| `wait_time_analysis.sas` | Your full SAS script (with comments) |
-| `appointments_data.csv` | Sample dataset (de-identified or dummy) |
-| `satisfaction_data.csv` | Sample dataset (de-identified or dummy) |
-| `summary_for_bi.csv` | Exported summary table |
-| `project_report.pdf` | Optional: Brief PDF with visuals, findings, and next steps |
-| `PowerBI_Screenshot.png` | Optional: Screenshot of Power BI dashboard (if built) |
